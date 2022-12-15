@@ -154,7 +154,6 @@ pull-w5.tiktokcdn.com
 pull-w5.tiktokcdn.com.c.worldfcdn.com
 qklojedx.in
 quic-normal-lb-gcp.byteoversea.net
-realsrv.com
 register.husilan.ru
 rnit.me
 s16.tiktokcdn.com
