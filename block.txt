@@ -13,6 +13,8 @@ tubecup.net
 syndication.realsrv.com
 .syndication.realsrv.com
 .ru
+.cn
+.by
 yandex.ru
 juicyads.com
 61c3007cf3.com
